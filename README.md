@@ -53,11 +53,12 @@ This module is essentially a **breakout**:
 🚫 **Do NOT connect this to network equipment** (switches, routers, computers)
 
 ## 🛠️ Build Instructions
-
+[Voir le BOM interactif](https://jojo-monk.github.io/Eurorack-RJ45-Link-Module/bom/ibom.html)
 1. Solder the RJ45 connector to the PCB  
 2. Solder the 3.5mm jacks  
 3. Mount the PCB to the front panel  
 4. Verify continuity for all 8 channels  
-5. Test with low-level signals first  
+5. Test with low-level signals first
+ 
 
 ✅ Tested and fully functional
