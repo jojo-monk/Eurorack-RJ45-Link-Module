@@ -38,25 +38,9 @@ This module is essentially a **breakout**:
 
 ### Optional
 
-- Shielded RJ45 connector (recommended)
+- Shielded RJ45 connector
 - ESD protection (if you want to improve robustness)
 
-## 🔌 Pinout
-
-Example mapping (can be adapted):
-
-| Channel | RJ45 Pin |
-|--------|---------|
-| 1      | 1       |
-| 2      | 2       |
-| 3      | 3       |
-| 4      | 4       |
-| 5      | 5       |
-| 6      | 6       |
-| 7      | 7       |
-| 8      | 8       |
-
-👉 Make sure both modules (sender/receiver) use the **same wiring**.
 
 ## ⚠️ Important Notes
 
@@ -78,4 +62,6 @@ Example mapping (can be adapted):
 
 ## 🧪 Usage
 
-Use two identical modules:
+Use two identical modules: [Synth Case A] ── RJ45 Cable ── [Synth Case B]
+
+✅ Tested and fully functional
