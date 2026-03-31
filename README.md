@@ -60,8 +60,4 @@ This module is essentially a **breakout**:
 4. Verify continuity for all 8 channels  
 5. Test with low-level signals first  
 
-## 🧪 Usage
-
-Use two identical modules: [Synth Case A] ── RJ45 Cable ── [Synth Case B]
-
 ✅ Tested and fully functional
